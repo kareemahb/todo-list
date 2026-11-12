@@ -48,10 +48,10 @@ todo-list-2019-week05/
  
 ## 🚀 Getting Started
  
-Try it live on **[GitHub Pages](https://kareemahb.github.io/todo-list-2019-week05/)**, or run it locally:
+Try it live on **[GitHub Pages](https://kareemahb.github.io/todo-list/)**, or run it locally:
  
 ```bash
-git clone https://github.com/kareemahb/todo-list-2019-week05.git
+git clone https://github.com/kareemahb/todo-list.git
 cd todo-list-2019-week05
 ```
  
