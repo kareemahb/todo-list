@@ -38,7 +38,7 @@ No frameworks, dependencies, or build tools.
 ## 📁 Project Structure
  
 ```
-todo-list-2019-week05/
+todo-list/
 ├── index.html   # Input, Add button, and task list
 ├── style.css    # Layout and the crossed-out style
 └── main.js      # Adds, completes, and deletes tasks
@@ -52,7 +52,7 @@ Try it live on **[GitHub Pages](https://kareemahb.github.io/todo-list/)**, or ru
  
 ```bash
 git clone https://github.com/kareemahb/todo-list.git
-cd todo-list-2019-week05
+cd todo-list
 ```
  
 Open `index.html` in your browser, or use the **Live Server** extension in VS Code.
